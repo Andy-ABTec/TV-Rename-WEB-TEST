@@ -17,7 +17,7 @@ feature_row:
   - image_path: "/assets/images/splash/customizable.png"
     alt: "customizable"
     title: "Super Customizable"
-    excerpt: "From multiple media locations to library language to show and episode images to metadata, to  TheTVDB and µTorrent integration; virtually every aspect of TV Rename is configurable..."
+    excerpt: "From multiple media locations to library language to show and episode images to metadata, to  TheTVDB and torrent integration; virtually every aspect of TV&nbsp;Rename is configurable..."
     url: "/manual/options/"
     btn_label: "Learn More"
   - image_path: "/assets/images/splash/stopwatch.png"
